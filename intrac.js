@@ -44,7 +44,7 @@ function clickTasksAndVerify() {
 
         // Log the number of verify buttons clicked
         console.log('Clicked on ' + verifyButtons.length + ' verify button(s) in total.');
-    }, 8000); // 8000 milliseconds delay (8 seconds)
+    }, 80000); // 8000 milliseconds delay (8 seconds)
 }
 
 // Call the function
